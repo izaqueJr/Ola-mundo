@@ -1,3 +1,3 @@
 # Olá, Mundo
 
-Primeriro repositório do curso Git e GitHub, ministrada pelo professor Guanabara!
+Primeriro repositório do curso Git e GitHub, ministrado pelo professor Guanabara!
